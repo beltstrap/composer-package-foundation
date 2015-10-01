@@ -1,10 +1,10 @@
 {
-    "name": ":namespace/:package_name",
+    "name": ":namespace/:package-name",
     "description": ":package_description",
     "keywords": [
         ":package_name"
     ],
-    "homepage": "https://github.com/:namespace/:package_name",
+    "homepage": "https://github.com/:namespace/:package-name",
     "license": "MIT",
     "authors": [
         {

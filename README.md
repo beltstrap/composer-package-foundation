@@ -1,4 +1,4 @@
-# :package_name
+# :package-name
 
 Introductory statement with any PSR standards or other pertinent information listed.
 
@@ -7,7 +7,7 @@ Introductory statement with any PSR standards or other pertinent information lis
 Via Composer
 
 ``` bash
-$ composer require :namespace/:package_name
+$ composer require :namespace/:package-name
 ```
 
 ## Usage
